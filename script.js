@@ -1,5 +1,5 @@
-const API_KEY = "c93435462cd741dbb4e33fcd37006c28";
-const url = "https://newsapi.org/v2/everything?q=";
+const API_KEY = "pub_5945838e1c410fbf21a6adc7e2e4b8f47487b";
+const url = "https://newsdata.io/search-news?q=everything;
 
 window.addEventListener("load", () => fetchNews("Technology"));
 
